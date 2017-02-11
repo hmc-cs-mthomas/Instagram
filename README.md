@@ -32,3 +32,7 @@ http://stackoverflow.com/questions/7025756/how-to-apply-global-font-to-whole-htm
 http://www.w3schools.com/cssref/css_colors.asp
 
 <img width="947" alt="styling background" src="https://cloud.githubusercontent.com/assets/16809159/22851748/581b239c-efe0-11e6-8efa-5174bd07deff.png">
+
+<img width="1235" alt="font" src="https://cloud.githubusercontent.com/assets/16809159/22851854/a0aafcba-efe3-11e6-8290-d3f7991c1937.png">
+
+<img width="1063" alt="lavender" src="https://cloud.githubusercontent.com/assets/16809159/22851858/ab36789e-efe3-11e6-9ce6-58e91b5f29b6.png">
